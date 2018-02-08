@@ -1,0 +1,32 @@
+{
+    "name": "imphinite/tencent-cloudcomm",
+    "description": "This is a Laravel package for server-end Tencent Cloud Communications API",
+    "type": "laravel",
+    "version": "0.0.0",
+    "keywords": [
+        "云通信",
+        "腾讯云通信",
+        "Tencent Cloud",
+        "Tencent Cloud Communications",
+        "TLS",
+        "Tencent Login Service",
+        "腾讯帐号登陆集成",
+        "Tencent"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yan Lin Wang",
+            "email": "charles.w.developer@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+		"illuminate/support": "5.*"
+    },
+	"autoload": {
+		"psr-4": {
+			"CloudComm\\": "src/"
+		}
+	}
+}
