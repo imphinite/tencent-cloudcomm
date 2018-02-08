@@ -93,7 +93,7 @@ Open configuration file **`config/cloudcomm.php`** and
     ...,
     /*
     |----------------------------------
-    | API UserSig
+    | UserSig
     |------------------------------------
     */
     

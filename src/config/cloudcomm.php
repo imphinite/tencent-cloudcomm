@@ -27,7 +27,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | 用户签名 API UserSig
+    | 用户签名 UserSig
     |--------------------------------------------------------------------------
     |
     | Will be used for all web services that require Admin authentication, 
