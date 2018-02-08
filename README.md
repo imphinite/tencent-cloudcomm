@@ -110,7 +110,7 @@ Import this package at the top of your file:
 
 ```php
 use CloudComm;
-...,
+...
 ```
 
 Here is an example of making request to Tencent-hosted Account Registration API:
@@ -184,7 +184,7 @@ Deeply nested array can use 'dot' notation to assign value.
 Returns reference to it's self.
 
 ```php
-$endpoint = CloudComm::load('register-account')
+$service = CloudComm::load('register-account')
     ->setParamByKey('Identifier', 'testaccount1')
     ->setParamByKey('IdentifierType', 3)
     ->setParamByKey('Password', 'Testaccount1Password!');  //return $this
