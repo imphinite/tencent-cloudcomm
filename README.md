@@ -13,16 +13,16 @@ For services documentation, APP key and Usage Limits visit:
 
 [Features](https://cloud.tencent.com/document/product/269/1520)
 ------------
-* [Account Management](https://lbs.amap.com/api/webservice/guide/api/search/)
-* [Send Message](https://lbs.amap.com/api/webservice/guide/api/batchrequest/)
-* [Push Notifications](https://lbs.amap.com/api/webservice/guide/api/georegeo/)
-* [Group Management](https://lbs.amap.com/api/webservice/guide/api/direction/)
-* [Profile Picture Management](https://lbs.amap.com/api/webservice/guide/api/district/)
-* [Chain Relationship Management](https://lbs.amap.com/api/webservice/guide/api/district/)
-* [Chat Censor Management](https://lbs.amap.com/api/webservice/guide/api/ipconfig/)
-* [Data Download](https://lbs.amap.com/api/webservice/guide/api/autograsp/)
-* [Online Status](https://lbs.amap.com/api/webservice/guide/api/staticmaps/)
-* [Global Chat Restriction Management](https://lbs.amap.com/api/webservice/guide/api/convert/)
+* Account Management
+* Send Message
+* Push Notifications
+* Group Management
+* Profile Picture Management
+* Chain Relationship Management
+* Chat Censor Management
+* Data Download
+* Online Status
+* Global Chat Restriction Management
 
 
 Dependency
